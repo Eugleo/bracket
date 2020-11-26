@@ -1,6 +1,6 @@
-# Bracquet
+# Bracket — Beautiful Racket
 
-The distinguished formatter for Racket.
+Make your Racket code more beautiful.
 
 ## Inspiration
 
